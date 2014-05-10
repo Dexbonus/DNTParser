@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DNT
+namespace DNT.Types
 {
     public class Row
     {

@@ -1,5 +1,5 @@
 ﻿
-namespace DNT
+namespace DNT.Types
 {
     public enum ColumnType
     {

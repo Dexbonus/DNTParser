@@ -1,4 +1,5 @@
-﻿using System.IO;
+﻿using DNT.Types;
+using System.IO;
 using System.Text;
 
 namespace DNT

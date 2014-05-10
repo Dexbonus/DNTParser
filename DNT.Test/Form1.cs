@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DNT.Types;
+using System;
 using System.Windows.Forms;
 
 namespace DNT.Test
